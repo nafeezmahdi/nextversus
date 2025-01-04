@@ -1,0 +1,34 @@
+{
+  "cSpell.words": [
+    "Authentificator",
+    "authorisation",
+    "Autorenew",
+    "Bitstamp",
+    "bruteforcers",
+    "doesn",
+    "EMON",
+    "Expences",
+    "fraudscore",
+    "googleads",
+    "Linken",
+    "linkensphere",
+    "Litecoin",
+    "moneyback",
+    "pentest",
+    "proxifier",
+    "proxifiers",
+    "Proxyfire",
+    "qrcode",
+    "resetpass",
+    "riscscore",
+    "SEGWIT",
+    "signin",
+    "socksauth",
+    "spamhaus",
+    "topup",
+    "Topups"
+  ],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
