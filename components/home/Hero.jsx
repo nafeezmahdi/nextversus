@@ -27,13 +27,11 @@ export default function Hero() {
             <h1 className="heroHeading">Ness</h1>
           </motion.div>
         </div>
-
         <motion.div
           variants={slideIn("right", "tween", 0.2, 1)}
           className="relative w-full md:-mt-[20px] -mt-[12px]"
         >
           <div className="absolute w-full h-[300px] hero-gradient rounded-tl-[140px] z-[0] -top-[30px]" />
-
           <Image
             src="/cover.png"
             alt="hero_cover"
@@ -41,7 +39,6 @@ export default function Hero() {
             width={1920}
             height={500}
           />
-
           <a href="#explore">
             <div className="w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10">
               <Image
